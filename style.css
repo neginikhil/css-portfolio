@@ -1,0 +1,137 @@
+
+@media(max-width : 600px){
+    .bottm-container{  text-align:center;
+        width:100%;
+    }
+    .footer{
+        text-align:center;
+        width:100%;
+    }
+    .contact-me{
+        text-align:center;
+        width:100%;
+    }
+    .h1{
+        font-size:15px;
+    }
+    .h2{
+        padding-top: 50px;
+        font-size: 15px;
+    }
+}
+
+.top-container{
+    margin : 0px;
+}
+
+.bg{
+
+    width : 100%;
+    height : 759px;
+}
+
+.h1{
+    font-family : 'Open Sans', sans-serif;
+    color : antiquewhite;
+    position : absolute;
+    top : 40%;
+    left : 55%;
+    font-size: 3rem;
+    font-weight:bold;
+}
+
+.h2{
+    font-family: 'Montserrat', sans-serif;
+    color : aliceblue;
+    position : absolute;
+    top : 50%;
+    left : 55%;
+    font-size : 2rem;
+}
+
+.ul{
+    text-decoration: underline; 
+}
+.pfp{
+    margin-top: 65px;
+    height : 175px;
+    width : 175px;
+    border-radius: 50%;
+}
+.lead{
+
+    font-family: 'Roboto', sans-serif;
+    margin-top : 20px;
+    margin-bottom : 20px;
+}
+hr{
+    border: dotted #eaf6f6 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 70px auto;
+}
+
+.bottom-container{
+    text-align: center;
+    margin: 0px;
+}
+.laptop{
+    height: 250px;
+    width: 300px;
+}
+.skill-heading{
+    padding-bottom: 50px;
+    font-family : 'Open Sans', sans-serif;
+    font-weight: bold;
+    font-size: 3rem;
+}
+.body{
+    display: flex;
+    flex-direction: row;
+    text-align: left;
+    justify-content: center;
+}
+
+.h3{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.skill{
+    padding-top: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.mix{
+    padding-left:20px;
+}
+
+.contact-me{
+    text-align: center;
+}
+
+.touch{
+    font-family : 'Open Sans', sans-serif;
+    font-weight: bold;
+    font-size: 3rem;
+    padding-bottom: 20px;
+}
+
+.talk{
+    font-size: 2rem;
+    font-family: 'Montserrat', sans-serif;
+    padding:20px;
+}
+
+.btn{
+    background-color: aquamarine;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.footer{
+    font-family:  'Roboto', sans-serif;
+    font-size: 1rem;
+    background-color: whitesmoke;
+
+}
